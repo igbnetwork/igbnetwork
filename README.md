@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=06B6D4&background=0D1117&center=true&vCenter=true&width=700&height=60&lines=%24+deploy+ia_agents+--target%3Dmexico;%24+automate+workflows+--stack%3Dn8n;%24+build+trading_bots+--mode%3Dlive;%24+scale+clients+--region%3Dlatam" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=06B6D4&background=0D1117&center=true&vCenter=true&width=700&height=60&lines=%24+deploy+ia_agents+%2D%2Dtarget%3Dmexico%3B%24+automate+workflows+%2D%2Dstack%3Dn8n%3B%24+build+trading_bots+%2D%2Dmode%3Dlive%3B%24+scale+clients+%2D%2Dregion%3Dlatam" />
 
 <br/><br/>
 
