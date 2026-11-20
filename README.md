@@ -1,18 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=IGB%20Network&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Fondo%20de%20inversión%20%26%20consultoría%20tecnológica&descAlignY=65&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=220&section=header&text=IGB%20NETWORK&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fondo%20de%20inversión%20%26%20consultoría%20tecnológica&descAlignY=55&descSize=20" />
 
-<a href="https://igb.network">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=IA+%2B+Automatización+%2B+Ecosistemas+Digitales;n8n+%2B+GoHighLevel+%2B+Claude+API;Querétaro%2C+México+🇲🇽" />
-</a>
+<br/>
 
-[![Website](https://img.shields.io/badge/🌐_Website-igb.network-7C3AED?style=for-the-badge)](https://igb.network)
-[![Location](https://img.shields.io/badge/📍_Querétaro-México-16A34A?style=for-the-badge)]()
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/orgs/igbnetwork&label=Repos&query=public_repos&color=F59E0B&style=for-the-badge)]()
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=06B6D4&background=0D1117&center=true&vCenter=true&width=700&height=60&lines=%24+deploy+ia_agents+--target%3Dmexico;%24+automate+workflows+--stack%3Dn8n;%24+build+trading_bots+--mode%3Dlive;%24+scale+clients+--region%3Dlatam" />
+
+<br/><br/>
+
+[![Website](https://img.shields.io/badge/🌐_WEBSITE-igb.network-7C3AED?style=for-the-badge&labelColor=0D1117)](https://igb.network)
+[![Location](https://img.shields.io/badge/📍_QUERÉTARO-MÉXICO-06B6D4?style=for-the-badge&labelColor=0D1117)]()
+[![Repos](https://img.shields.io/badge/📦_REPOSITORIOS-9-F59E0B?style=for-the-badge&labelColor=0D1117)]()
+[![Commits](https://img.shields.io/badge/🔥_COMMITS-1%2C500%2B-EF4444?style=for-the-badge&labelColor=0D1117)]()
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 </div>
-
----
 
 ### 🏢 Sobre nosotros
 
@@ -21,41 +24,45 @@
 Diseñamos y construimos ecosistemas web, agentes de IA, automatización de procesos y sistemas de trading algorítmico para empresas que quieren escalar con tecnología.
 
 ```diff
-+ 1,500+ commits en producción  ·  9 repositorios activos  ·  100% construido in-house
++ 1,500+ commits en producción
++ 9 repositorios activos
++ 100% construido in-house
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 ### 🛠️ Stack tecnológico
 
+<div align="center">
+
 **Lenguajes**
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,python" />
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,python&theme=dark" />
 
 **Frontend**
-<p>
-<img src="https://skillicons.dev/icons?i=angular,react,astro,vite,tailwind,threejs" />
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=angular,react,astro,vite,tailwind,threejs&theme=dark" />
 
 **Backend y datos**
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,mongodb,postgres,sqlite" />
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,mongodb,postgres,sqlite&theme=dark" />
 
 **IA, automatización e infraestructura**
-<p>
-<img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,vercel,githubactions,wordpress" />
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,vercel,githubactions,wordpress&theme=dark" />
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-FF6600?style=flat-square)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+<br/>
 
----
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-FF6600?style=for-the-badge)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 ### 📌 Proyectos destacados
 
@@ -110,26 +117,18 @@ Diseñamos y construimos ecosistemas web, agentes de IA, automatización de proc
 <td>Astro · Decap CMS · Cloudflare Pages Functions</td>
 </tr>
 
-<tr>
-<td><b>CRM inmobiliario</b></td>
-<td>Frontend de un CRM de administración de inmuebles: propiedades, inquilinos, contratos, cobranza, mantenimiento y reportes, multilenguaje.</td>
-<td>React · Vite · MUI · Ant Design · i18next · Recharts</td>
-</tr>
-
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 ### 📈 Actividad en GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igbnetwork&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igbnetwork&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igbnetwork&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0D1117)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=igbnetwork&theme=synthwave&hide_border=true&background=0D1117)
 
 </div>
-
----
 
 <div align="center">
 
@@ -137,6 +136,6 @@ Diseñamos y construimos ecosistemas web, agentes de IA, automatización de proc
 
 **[igb.network](https://igb.network)** · Querétaro, México 🇲🇽
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=150&section=footer" />
 
 </div>
